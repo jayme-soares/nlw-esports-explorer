@@ -6,10 +6,10 @@ estrutura correta e objetiva assim como de estilos e animações para deixar a p
 O projeto, apesar de sua simplicidade, mostra como pode-se criar paginas dinâmicas e profissionais apenas com HTML e CSS. Concretiza os 
 conhecimentos base de desenvolvimento Front-end, servindo como uma boa prática aos estudos da área.
 
-##Tecnologias
-HTML
-CSS
-Git e GitHub
+## Tecnologias
+- HTML
+- CSS
+- Git e GitHub
 
 [Deploy do projeto](https://jayme-soares.github.io/nlw-esports-explorer/)
 
